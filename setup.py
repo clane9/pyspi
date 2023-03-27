@@ -19,7 +19,7 @@ install_requires = [
         'hyppo==0.2.1',
         'pyEDM==1.10.3.0',
         'jpype1==1.2.0',
-        'sktime==0.8.0',
+        'sktime==0.13.4',
         'dill==0.3.2',
         'spectral-connectivity==0.2.4.dev0',
         'torch==1.10.0',
